@@ -1,4 +1,4 @@
-# AgentAI Usage Examples
+# Agent Go Usage Examples
 
 ## Core Components
 

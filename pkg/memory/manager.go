@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
-	"agentai/pkg/memory/backend"
-	"agentai/pkg/memory/conversation"
-	"agentai/pkg/memory/vector"
+	"agent-go/pkg/memory/backend"
+	"agent-go/pkg/memory/conversation"
+	"agent-go/pkg/memory/vector"
 )
 
 // Manager coordinates memory components and provides a high-level interface

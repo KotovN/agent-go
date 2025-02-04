@@ -8,8 +8,8 @@ import (
 	"io"
 	"net/http"
 
-	"agentai/pkg/core"
-	"agentai/pkg/types"
+	"agent-go/pkg/core"
+	"agent-go/pkg/types"
 )
 
 // Provider implements the LLM provider interface for Google's Gemini API

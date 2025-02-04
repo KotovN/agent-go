@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"agentai/pkg/types"
+	"agent-go/pkg/types"
 
 	"github.com/pkoukk/tiktoken-go"
 )

@@ -1,8 +1,8 @@
 package tools
 
 import (
-	"agentai/pkg/agents/cache"
-	"agentai/pkg/core"
+	"agent-go/pkg/agents/cache"
+	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 )

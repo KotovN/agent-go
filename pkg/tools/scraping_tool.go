@@ -1,7 +1,7 @@
 package tools
 
 import (
-	"agentai/pkg/core"
+	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -25,7 +25,7 @@ type ScrapingTool struct {
 // NewScrapingTool creates a new web scraping tool instance
 func NewScrapingTool(userAgent string) *ScrapingTool {
 	if userAgent == "" {
-		userAgent = "AgentAI/1.0"
+		userAgent = "agent-go/1.0"
 	}
 	return &ScrapingTool{
 		client: &http.Client{

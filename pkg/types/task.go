@@ -1,7 +1,7 @@
 package types
 
 import (
-	"agentai/pkg/tasks"
+	"agent-go/pkg/tasks"
 	"time"
 )
 

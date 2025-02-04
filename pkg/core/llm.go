@@ -1,7 +1,7 @@
 package core
 
 import (
-	"agentai/pkg/types"
+	"agent-go/pkg/types"
 	"context"
 )
 

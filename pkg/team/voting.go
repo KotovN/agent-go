@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/tasks"
+	"agent-go/pkg/tasks"
 )
 
 // Vote represents a single agent's vote

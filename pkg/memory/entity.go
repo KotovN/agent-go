@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"agentai/pkg/utils"
+	"agent-go/pkg/utils"
 )
 
 // EntityMemoryStruct represents a memory component for storing entity information

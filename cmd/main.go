@@ -8,12 +8,12 @@ import (
 	"path/filepath"
 	"time"
 
-	"agentai/pkg/agents"
-	"agentai/pkg/core"
-	"agentai/pkg/llm"
-	"agentai/pkg/memory"
-	"agentai/pkg/tasks"
-	"agentai/pkg/team"
+	"agent-go/pkg/agents"
+	"agent-go/pkg/core"
+	"agent-go/pkg/llm"
+	"agent-go/pkg/memory"
+	"agent-go/pkg/tasks"
+	"agent-go/pkg/team"
 )
 
 func main() {

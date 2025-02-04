@@ -1,7 +1,7 @@
 package tasks
 
 import (
-	"agentai/pkg/capabilities"
+	"agent-go/pkg/capabilities"
 	"time"
 )
 

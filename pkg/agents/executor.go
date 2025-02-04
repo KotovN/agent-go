@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"agentai/pkg/core"
-	"agentai/pkg/execution"
-	"agentai/pkg/tasks"
+	"agent-go/pkg/core"
+	"agent-go/pkg/execution"
+	"agent-go/pkg/tasks"
 )
 
 // AgentExecutor wraps the core executor with agent-specific functionality

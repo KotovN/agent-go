@@ -3,8 +3,8 @@ package llm
 import (
 	"context"
 
-	"agentai/pkg/llm/token"
-	"agentai/pkg/types"
+	"agent-go/pkg/llm/token"
+	"agent-go/pkg/types"
 )
 
 // Role represents a message role in a chat conversation

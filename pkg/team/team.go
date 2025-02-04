@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"agentai/pkg/agents"
-	"agentai/pkg/core"
-	"agentai/pkg/embeddings"
-	"agentai/pkg/memory"
-	"agentai/pkg/tasks"
-	"agentai/pkg/utils"
+	"agent-go/pkg/agents"
+	"agent-go/pkg/core"
+	"agent-go/pkg/embeddings"
+	"agent-go/pkg/memory"
+	"agent-go/pkg/tasks"
+	"agent-go/pkg/utils"
 )
 
 // ProcessType defines how agents in a team work together

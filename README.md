@@ -1,4 +1,4 @@
-# AgentAI
+# Agent Go
 
 A Go implementation of an AI agent orchestration system
 

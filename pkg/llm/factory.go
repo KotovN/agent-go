@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"agentai/pkg/core"
-	"agentai/pkg/llm/gemini"
-	"agentai/pkg/llm/openai"
+	"agent-go/pkg/core"
+	"agent-go/pkg/llm/gemini"
+	"agent-go/pkg/llm/openai"
 )
 
 // NewProvider creates a new LLM provider based on the configuration

@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"agentai/pkg/core"
-	"agentai/pkg/types"
+	"agent-go/pkg/core"
+	"agent-go/pkg/types"
 
 	"github.com/sashabaranov/go-openai"
 )

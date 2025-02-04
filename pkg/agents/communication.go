@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/memory"
+	"agent-go/pkg/memory"
 )
 
 // MessageType defines the type of communication between agents

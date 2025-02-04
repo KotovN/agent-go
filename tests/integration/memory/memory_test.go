@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"agentai/pkg/agents"
-	"agentai/pkg/core"
-	"agentai/pkg/llm"
-	"agentai/pkg/memory"
+	"agent-go/pkg/agents"
+	"agent-go/pkg/core"
+	"agent-go/pkg/llm"
+	"agent-go/pkg/memory"
 )
 
 func TestMemoryIntegration(t *testing.T) {

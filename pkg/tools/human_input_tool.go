@@ -1,7 +1,7 @@
 package tools
 
 import (
-	"agentai/pkg/core"
+	"agent-go/pkg/core"
 	"bufio"
 	"encoding/json"
 	"fmt"

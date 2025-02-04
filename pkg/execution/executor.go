@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"agentai/pkg/core"
-	"agentai/pkg/tasks"
-	"agentai/pkg/types"
+	"agent-go/pkg/core"
+	"agent-go/pkg/tasks"
+	"agent-go/pkg/types"
 )
 
 // ExecutorOption defines functional options for configuring an executor

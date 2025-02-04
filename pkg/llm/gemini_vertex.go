@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"agentai/pkg/types"
+	"agent-go/pkg/types"
 
 	"cloud.google.com/go/vertexai/genai"
 	"google.golang.org/api/option"

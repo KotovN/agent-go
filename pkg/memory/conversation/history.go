@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/embeddings"
-	"agentai/pkg/memory/vector"
+	"agent-go/pkg/embeddings"
+	"agent-go/pkg/memory/vector"
 )
 
 // MessageRole represents the role of a message sender

@@ -1,7 +1,7 @@
 package multimodal
 
 import (
-	"agentai/pkg/core"
+	"agent-go/pkg/core"
 	"encoding/base64"
 	"encoding/json"
 	"fmt"

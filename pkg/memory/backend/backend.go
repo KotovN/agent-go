@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/memory/conversation"
-	"agentai/pkg/memory/vector"
+	"agent-go/pkg/memory/conversation"
+	"agent-go/pkg/memory/vector"
 )
 
 // Backend defines the interface for memory storage

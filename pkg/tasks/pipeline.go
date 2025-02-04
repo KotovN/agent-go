@@ -1,7 +1,7 @@
 package tasks
 
 import (
-	"agentai/pkg/utils"
+	"agent-go/pkg/utils"
 	"context"
 	"fmt"
 	"math"

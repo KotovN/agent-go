@@ -12,12 +12,12 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/capabilities"
-	"agentai/pkg/core"
-	"agentai/pkg/memory"
-	"agentai/pkg/tasks"
-	"agentai/pkg/types"
-	"agentai/pkg/utils"
+	"agent-go/pkg/capabilities"
+	"agent-go/pkg/core"
+	"agent-go/pkg/memory"
+	"agent-go/pkg/tasks"
+	"agent-go/pkg/types"
+	"agent-go/pkg/utils"
 )
 
 var slog = utils.NewLogger(true)

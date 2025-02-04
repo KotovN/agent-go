@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/agents"
-	"agentai/pkg/tasks"
-	"agentai/pkg/types"
+	"agent-go/pkg/agents"
+	"agent-go/pkg/tasks"
+	"agent-go/pkg/types"
 )
 
 // ConflictType represents different types of conflicts that can occur

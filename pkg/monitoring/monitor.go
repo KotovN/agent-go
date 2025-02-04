@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"agentai/pkg/capabilities"
-	"agentai/pkg/tasks"
+	"agent-go/pkg/capabilities"
+	"agent-go/pkg/tasks"
 )
 
 // MetricType represents the type of metric being tracked

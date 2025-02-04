@@ -1,10 +1,10 @@
 package tools
 
 import (
-	"agentai/pkg/agents"
-	"agentai/pkg/core"
-	"agentai/pkg/tasks"
-	"agentai/pkg/team"
+	"agent-go/pkg/agents"
+	"agent-go/pkg/core"
+	"agent-go/pkg/tasks"
+	"agent-go/pkg/team"
 	"context"
 	"encoding/json"
 	"fmt"
