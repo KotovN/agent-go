@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/memory"
+	"github.com/KotovN/agent-go/pkg/memory"
 )
 
 // MessageType defines the type of communication between agents

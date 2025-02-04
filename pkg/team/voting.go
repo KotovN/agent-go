@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/tasks"
 )
 
 // Vote represents a single agent's vote

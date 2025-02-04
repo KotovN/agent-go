@@ -1,7 +1,6 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -9,6 +8,8 @@ import (
 	"net/url"
 	"strings"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/core"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/temoto/robotstxt"

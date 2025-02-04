@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/embeddings"
-	"agent-go/pkg/memory/vector"
+	"github.com/KotovN/agent-go/pkg/embeddings"
+	"github.com/KotovN/agent-go/pkg/memory/vector"
 )
 
 // MessageRole represents the role of a message sender

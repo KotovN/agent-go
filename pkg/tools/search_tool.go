@@ -1,13 +1,14 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 	"net/http"
 	"net/url"
 	"sync"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // SearchTool provides web search capabilities

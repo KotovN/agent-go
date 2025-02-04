@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/agents"
-	"agent-go/pkg/tasks"
-	"agent-go/pkg/types"
+	"github.com/KotovN/agent-go/pkg/agents"
+	"github.com/KotovN/agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/types"
 )
 
 // ConflictType represents different types of conflicts that can occur

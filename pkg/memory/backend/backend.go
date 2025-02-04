@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/memory/conversation"
-	"agent-go/pkg/memory/vector"
+	"github.com/KotovN/agent-go/pkg/memory/conversation"
+	"github.com/KotovN/agent-go/pkg/memory/vector"
 )
 
 // Backend defines the interface for memory storage

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"agent-go/pkg/core"
-	"agent-go/pkg/types"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/types"
 
 	"github.com/google/generative-ai-go/genai"
 	"google.golang.org/api/option"

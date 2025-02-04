@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"agent-go/pkg/capabilities"
+	"github.com/KotovN/agent-go/pkg/capabilities"
 )
 
 // TaskPriority represents the priority level of a task

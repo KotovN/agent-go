@@ -1,13 +1,14 @@
 package tools
 
 import (
-	"agent-go/pkg/agents"
-	"agent-go/pkg/core"
-	"agent-go/pkg/tasks"
-	"agent-go/pkg/team"
 	"context"
 	"encoding/json"
 	"fmt"
+
+	"github.com/KotovN/agent-go/pkg/agents"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/team"
 )
 
 // DelegationTool allows agents to delegate tasks to other agents

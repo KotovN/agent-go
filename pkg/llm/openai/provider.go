@@ -8,8 +8,8 @@ import (
 	"io"
 	"net/http"
 
-	"agent-go/pkg/core"
-	"agent-go/pkg/types"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/types"
 )
 
 // Provider implements the LLM provider interface for OpenAI

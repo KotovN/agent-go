@@ -12,12 +12,12 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/capabilities"
-	"agent-go/pkg/core"
-	"agent-go/pkg/memory"
-	"agent-go/pkg/tasks"
-	"agent-go/pkg/types"
-	"agent-go/pkg/utils"
+	"github.com/KotovN/agent-go/pkg/capabilities"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/memory"
+	"github.com/KotovN/agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/types"
+	"github.com/KotovN/agent-go/pkg/utils"
 )
 
 var slog = utils.NewLogger(true)

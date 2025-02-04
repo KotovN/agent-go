@@ -1,13 +1,14 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"bufio"
 	"encoding/json"
 	"fmt"
 	"os"
 	"strings"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // HumanInputTool provides interactive input capabilities

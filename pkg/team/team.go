@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"agent-go/pkg/agents"
-	"agent-go/pkg/core"
-	"agent-go/pkg/embeddings"
-	"agent-go/pkg/memory"
-	"agent-go/pkg/tasks"
-	"agent-go/pkg/utils"
+	"github.com/KotovN/agent-go/pkg/agents"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/embeddings"
+	"github.com/KotovN/agent-go/pkg/memory"
+	"github.com/KotovN/agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/utils"
 )
 
 // ProcessType defines how agents in a team work together

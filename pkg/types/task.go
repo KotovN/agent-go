@@ -1,8 +1,9 @@
 package types
 
 import (
-	"agent-go/pkg/tasks"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/tasks"
 )
 
 // TaskProgress tracks the progress of a task

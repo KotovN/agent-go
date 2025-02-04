@@ -1,8 +1,9 @@
 package core
 
 import (
-	"agent-go/pkg/types"
 	"context"
+
+	"github.com/KotovN/agent-go/pkg/types"
 )
 
 // LLMConfig holds configuration for an LLM provider

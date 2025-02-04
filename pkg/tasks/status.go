@@ -1,8 +1,9 @@
 package tasks
 
 import (
-	"agent-go/pkg/capabilities"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/capabilities"
 )
 
 // TaskStatus represents the current state of a task

@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/capabilities"
-	"agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/capabilities"
+	"github.com/KotovN/agent-go/pkg/tasks"
 )
 
 // MetricType represents the type of metric being tracked

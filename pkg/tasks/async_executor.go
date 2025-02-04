@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"agent-go/pkg/utils"
+	"github.com/KotovN/agent-go/pkg/utils"
 )
 
 // AsyncResult represents the result of an async task execution

@@ -1,11 +1,12 @@
 package core
 
 import (
-	"agent-go/pkg/types"
 	"context"
 	"encoding/json"
 	"fmt"
 	"strings"
+
+	"github.com/KotovN/agent-go/pkg/types"
 )
 
 // Executor handles task execution for agents

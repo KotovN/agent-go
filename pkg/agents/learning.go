@@ -3,8 +3,8 @@ package agents
 import (
 	"time"
 
-	"agent-go/pkg/capabilities"
-	"agent-go/pkg/memory"
+	"github.com/KotovN/agent-go/pkg/capabilities"
+	"github.com/KotovN/agent-go/pkg/memory"
 )
 
 // LearningStrategy defines different approaches to agent learning

@@ -1,13 +1,14 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"bytes"
 	"encoding/json"
 	"fmt"
 	"io"
 	"net/http"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // HTTPTool provides HTTP request capabilities

@@ -1,12 +1,13 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 	"os"
 	"os/exec"
 	"path/filepath"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // CodeInterpreterTool allows agents to execute code

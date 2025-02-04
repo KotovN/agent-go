@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/tasks"
 )
 
 // ContextKey type for context values

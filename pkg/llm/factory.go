@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"agent-go/pkg/core"
-	"agent-go/pkg/llm/gemini"
-	"agent-go/pkg/llm/openai"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/llm/gemini"
+	"github.com/KotovN/agent-go/pkg/llm/openai"
 )
 
 // NewProvider creates a new LLM provider based on the configuration

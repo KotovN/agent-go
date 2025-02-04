@@ -1,10 +1,11 @@
 package tools
 
 import (
-	"agent-go/pkg/agents/cache"
-	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
+
+	"github.com/KotovN/agent-go/pkg/agents/cache"
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // CacheTool provides direct access to the cache

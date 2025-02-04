@@ -1,4 +1,4 @@
-module agent-go
+module github.com/KotovN/agent-go
 
 go 1.23.0
 

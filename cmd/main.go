@@ -8,12 +8,17 @@ import (
 	"path/filepath"
 	"time"
 
-	"agent-go/pkg/agents"
-	"agent-go/pkg/core"
-	"agent-go/pkg/llm"
-	"agent-go/pkg/memory"
-	"agent-go/pkg/tasks"
-	"agent-go/pkg/team"
+	"github.com/KotovN/agent-go/pkg/team"
+
+	"github.com/KotovN/agent-go/pkg/tasks"
+
+	"github.com/KotovN/agent-go/pkg/memory"
+
+	"github.com/KotovN/agent-go/pkg/llm"
+
+	"github.com/KotovN/agent-go/pkg/core"
+
+	"github.com/KotovN/agent-go/pkg/agents"
 )
 
 func main() {

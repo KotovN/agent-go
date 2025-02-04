@@ -1,12 +1,13 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 	"io"
 	"os"
 	"path/filepath"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // FileTool provides file system operation capabilities

@@ -1,7 +1,7 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // BaseTool provides a base implementation of the Tool interface

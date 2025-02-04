@@ -1,11 +1,12 @@
 package tools
 
 import (
-	"agent-go/pkg/core"
 	"encoding/json"
 	"fmt"
 	"strconv"
 	"strings"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // Calculator is a tool that performs basic arithmetic operations

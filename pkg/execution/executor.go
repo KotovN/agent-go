@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"agent-go/pkg/core"
-	"agent-go/pkg/tasks"
-	"agent-go/pkg/types"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/tasks"
+	"github.com/KotovN/agent-go/pkg/types"
 )
 
 // ExecutorOption defines functional options for configuring an executor

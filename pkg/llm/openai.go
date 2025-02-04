@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"agent-go/pkg/core"
-	"agent-go/pkg/types"
+	"github.com/KotovN/agent-go/pkg/core"
+	"github.com/KotovN/agent-go/pkg/types"
 
 	"github.com/sashabaranov/go-openai"
 )

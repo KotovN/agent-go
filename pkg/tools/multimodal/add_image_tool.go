@@ -1,7 +1,6 @@
 package multimodal
 
 import (
-	"agent-go/pkg/core"
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
@@ -9,6 +8,8 @@ import (
 	"os"
 	"path/filepath"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/core"
 )
 
 // AddImageTool allows agents to add images to their context

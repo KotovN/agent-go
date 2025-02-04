@@ -1,13 +1,14 @@
 package tasks
 
 import (
-	"agent-go/pkg/utils"
 	"context"
 	"fmt"
 	"math"
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/KotovN/agent-go/pkg/utils"
 )
 
 // Pipeline manages the execution flow of tasks
